@@ -1,4 +1,4 @@
-# kotlin-web-maven-springboot-thyme-hello-world
+# kotlin-web-maven-spring-thyme-fragment-hello
 
 ## Description
 A POC for spring framework.
